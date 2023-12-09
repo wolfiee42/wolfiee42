@@ -16,3 +16,7 @@
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,express,nodejs,mongo,firebase" />
   </a>
 </p>
+
+
+### My Stats: 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wolfiee_42&theme=shadow-blue&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)

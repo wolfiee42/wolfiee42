@@ -19,7 +19,6 @@
 
 
 ### My Stats: 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wolfiee_42&theme=shadow-blue&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
 
 
 <table cellpadding="0">
@@ -31,13 +30,23 @@
   </tr>
 </table>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/wolfiee42/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wolfiee_42&theme=shadow-blue&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
 
 
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="300" width="300" src="https://api.githubtrends.io/user/svg/wolfiee42/repos?time_range=one_year&theme=bright_lights"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wolfiee42&theme=blueberry&utcOffset=8"/></td>
+  </tr>
+</table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wolfiee42&theme=blueberry)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wolfiee42&theme=blueberry)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wolfiee42&theme=blueberry&utcOffset=8)
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wolfiee42&theme=blueberry"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wolfiee42&theme=blueberry"/></td>
+  </tr>
+</table>

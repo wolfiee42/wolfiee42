@@ -32,3 +32,12 @@
 </table>
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/wolfiee42/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wolfiee42&theme=blueberry)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wolfiee42&theme=blueberry)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wolfiee42&theme=blueberry&utcOffset=8)

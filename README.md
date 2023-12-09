@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](/assests/banner.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assests/banners.png "San Juan Mountains")
 ### Hi there 👋
 
 **wolfiee42/wolfiee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

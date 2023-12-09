@@ -10,7 +10,7 @@
 ### 📫 How to reach me: *[linkedin](https://www.linkedin.com/in/saif-siraj-776b7b212/)*, *[Facebook](https://www.facebook.com/saif.alislam.3388630)*
 
 
-### My Skills: 
+### 🕵 My Skills: 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,express,nodejs,mongo,firebase" />
@@ -18,7 +18,7 @@
 </p>
 
 
-### My Stats: 
+### ✒️  My Stats: 
 
 
 <table cellpadding="0">

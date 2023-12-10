@@ -2,7 +2,7 @@
 ### Hi there, I am Saiful Islam. A Junior Front-End developer from Bangladesh. You can call me `Saif`, It's a pleasure to meet you! 👋
 
 
-### Here are some ideas to get you started:
+### Currently focused On:
 
 - 🔭 I'm currently working on leveraging the power of React and Tanstack Query to create dynamic and responsive user interfaces. 
 - 🌱 I’m currently learning Next.js server-side rendering and static site generation capabilities

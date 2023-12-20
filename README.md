@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on leveraging the power of React and Tanstack Query to create dynamic and responsive user interfaces. 
 - 🌱 I’m currently learning Next.js server-side rendering and static site generation capabilities
 - 👯 I'm looking to collaborate on innovative projects that leverage the power of front-end technologies to create compelling and user-friendly web experiences.
-### 📫 How to reach me: *[linkedin](https://www.linkedin.com/in/saif-siraj-776b7b212/)*, *[Facebook](https://www.facebook.com/saif.alislam.3388630)*
+### 📫 How to reach me: *[linkedin](https://www.linkedin.com/in/saaiful-islam)*, *[Facebook](https://www.facebook.com/saif.alislam.3388630)*
 
 
 ### 🕵 My Skills: 

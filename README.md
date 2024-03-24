@@ -36,7 +36,7 @@
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="300" width="300" src="https://api.githubtrends.io/user/svg/shariarniaj05/repos?time_range=six_months&theme=dark"/></td>
+    <td valign="top"><img height="300" width="300" src="https://api.githubtrends.io/user/svg/wolfiee42/repos?time_range=six_months&theme=dark"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wolfiee42&theme=blueberry&utcOffset=8"/></td>
   </tr>

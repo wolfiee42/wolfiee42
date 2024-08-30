@@ -1,4 +1,4 @@
-![Saiful Islam's Github Banner!](/assests/banners.png "Saiful Islam's Github Banner")
+<a href="https://app.daily.dev/saif42"><img src="./devcard.png"  width="846" alt="Saif's Dev Card"/></a>
 ### Hi there, I am Saiful Islam. It's a pleasure to meet you! 👋
 
 ### 📫 How to reach me:

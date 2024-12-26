@@ -8,7 +8,7 @@
 ### 🕵 My Skills: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,express,nodejs,mongo,firebase" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,remix,nextjs,redux,tailwind,express,nodejs,jest,mongo,firebase,postman,pnpm,npm,notion" />
   </a>
 </p>
 

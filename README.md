@@ -2,7 +2,7 @@
 ### Hi there, I am Saiful Islam. It's a pleasure to meet you! 👋
 
 ### 📫 How to reach me:
- *[<img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" width="56" height="" />](https://www.linkedin.com/in/saaiful-islam)* *[<img src="https://i.ibb.co/YLRGC3g/fb.png" width="56" height="" />](https://www.facebook.com/saif.alislam.3388630)*
+ *[<img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" width="56" height="" />](https://www.linkedin.com/in/saif42)* *[<img src="https://i.ibb.co/YLRGC3g/fb.png" width="56" height="" />](https://www.facebook.com/saif.alislam.3388630)*
 
 
 ### 🕵 My Skills: 
